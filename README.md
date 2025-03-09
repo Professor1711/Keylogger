@@ -13,15 +13,23 @@ This is a **basic Python keylogger** that captures keystrokes and logs them into
 - Uses the `pynput` library for key capture
 
 ## 🚀 Installation & Usage
-### **1. Install Dependencies**
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/Professor1711/Keylogger.git
+cd Keylogger
+```
+
+### **2. Install Dependencies**
 ```bash
 pip install pynput
 ```
-### **2. Run the Script**
+
+### **3. Run the Script**
 ```bash
 python keylogger.py
 ```
-### **3. View Logs**
+
+### **4. View Logs**
 Check the `keylogs.txt` file for recorded keystrokes.
 
 ## 🛡️ Ethical Use Cases
@@ -32,5 +40,7 @@ Check the `keylogs.txt` file for recorded keystrokes.
 ❌ **Do not use for malicious purposes!** Unauthorized access is a crime.
 
 ## 📜 License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the **GNU General Public License (GPL)**. See the `LICENSE` file for full details.
 
+## 🔗 Repository Link
+🔗 [GitHub Repository](https://github.com/Professor1711/Keylogger.git)
